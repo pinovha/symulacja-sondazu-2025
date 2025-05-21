@@ -1,4 +1,4 @@
-# Symulacja sondażu 2025
+# Symulacja Sondażu 2025
 Skrypt do symulacji sondażu na podstawie danych z pierwszej tury wyborów prezydenckich 2025, z wizualizacją wyników w formie wykresów słupkowych.
 
 ## Funkcjonalności
