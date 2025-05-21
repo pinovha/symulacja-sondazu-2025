@@ -8,3 +8,5 @@ Skrypt do symulacji sondażu na podstawie danych z pierwszej tury wyborów prezy
 
 ## Wymagania
 * Biblioteki: matplotlib, collections (Counter)
+
+`Źródło danych: Państwowa Komisja Wyborcza (https://wybory.gov.pl)`
