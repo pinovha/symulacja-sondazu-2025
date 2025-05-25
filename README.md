@@ -1,12 +1,19 @@
-# Symulacja Sondażu 2025
-Skrypt do symulacji sondażu na podstawie danych z pierwszej tury wyborów prezydenckich 2025, z wizualizacją wyników w formie wykresów słupkowych.
+# Wpływ wielkości próbki
+Symulacja wpływu wielkości próbki na odwzorowanie wyników I tury wyborów prezydenckich 2025.\
+Analiza na pełnych danych oraz losowych gminach.\
+Wizualizacja wyników na wykresach słupkowych.
 
-## Funkcjonalności
-* Losowanie próbek o różnych rozmiarach z listy głosów
-* Liczenie i sortowanie wyników w próbkach
-* Wizualizacja wyników na wykresach słupkowych z procentowym oznaczeniem głosów
+## Notatnik 1 - `proby_losowe_z_pelnych_danych`
+* Losowanie próbek o różnych rozmiarach z pełnych danych wyborczych.
+* Analiza wpływu rozmiaru różnych próbek na dokładność odwzorowania wyników.
+
+## Notatnik 2 - `proby_losowe_z_wybranych_gmin`
+* Losowanie gmin z całej Polski i analiza wyników jako próbek.
+* Porównanie rozkładów głosów.
 
 ## Wymagania
 * Biblioteki: matplotlib, collections (Counter)
 
-`Źródło danych: Państwowa Komisja Wyborcza (https://wybory.gov.pl)`
+## Źródło danych 
+
+Źródło danych: [Państwowa Komisja Wyborcza](https://wybory.gov.pl)
