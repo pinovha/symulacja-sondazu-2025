@@ -1,6 +1,6 @@
 # Wpływ wielkości próbki
 Symulacja wpływu wielkości próbki na odwzorowanie wyników I tury wyborów prezydenckich 2025.\
-Analiza przeprowadzona na pełnych danych oraz na losowo dobranych próbkach gmin.
+Analiza przeprowadzona na pełnych danych oraz na losowo dobranych próbkach powiatów.\
 Wyniki prezentowane za pomocą wykresów słupkowych.
 
 ## Notatnik 1 - `proby_losowe_z_pelnych_danych`
@@ -8,8 +8,8 @@ Wyniki prezentowane za pomocą wykresów słupkowych.
 * Analiza rozkładu głosów w próbkach.
 * Porównanie wyników pomiędzy różnymi próbami.
 
-## Notatnik 2 - `proby_losowe_z_wybranych_gmin`
-* Losowe dobieranie określonej liczby gmin i tworzenie prób głosów w opraciu o ich dane.
+## Notatnik 2 - `proby_losowe_z_wybranych_powiatow`
+* Losowe dobieranie określonej liczby powiatów i tworzenie prób głosów w opraciu o ich dane.
 * Symulacja oddania ograniczonej liczby głosów z każdej gminy.
 * Porównanie wyników pomiędzy różnymi próbami.
 
